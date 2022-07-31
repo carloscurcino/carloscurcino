@@ -1,6 +1,6 @@
 ### Hi there, i'm Carlos Daniel, you're welcome! 👋
 <div align="center">
-<img src="https://data.whicdn.com/images/271624292/original.gif" width=1080 heigth=608 />
+<img src="https://data.whicdn.com/images/271624292/original.gif" width=540 heigth=304 />
 </div>
 
 - 🌱 I’m currently learning Web Development.
