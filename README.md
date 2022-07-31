@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Web Development.<br />
 - 👯 I’m looking to front-end jobs.<br />
 - 💬 Ask me about Movies and Series.<br />
-
+<br />
 
 <div align="center">
   <a href="https://github.com/carloscurcino">
