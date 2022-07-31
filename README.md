@@ -2,9 +2,10 @@
 <div align="center">
 <img src="https://data.whicdn.com/images/271624292/original.gif" width=840 heigth=604 />
 </div>
-
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to front-end jobs.
+ 
+ <br />
+- 🌱 I’m currently learning Web Development.<br />
+- 👯 I’m looking to front-end jobs.<br />
 - 💬 Ask me about Movies and Series.
 
 -->
