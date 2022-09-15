@@ -5,7 +5,7 @@
  
  <br />
 - 🌱 I’m currently learning Web Development.<br />
-- 👯 I’m looking for front-end internships.<br />
+- 👯 I’m looking for front-end projects.<br />
 - 💬 Ask me about Movies and Series.<br />
 <br />
 
