@@ -4,7 +4,6 @@
 </div>
  
  <br />
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Carlos+Curcino;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 - 🌱 I’m currently learning Web Development.<br />
 - 👯 I’m looking for front-end projects.<br />
