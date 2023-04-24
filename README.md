@@ -6,7 +6,7 @@
  <br />
  
 - 🌱 I’m currently learning Web Development.<br />
-- 👯 I’m looking for front-end projects.<br />
+- 👯 I’m looking for full-stack projects.<br />
 - 💬 Ask me about Movies and Series.<br />
 <br />
 
@@ -20,7 +20,9 @@
   <img align="center" alt="Curcino-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Curcino-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Curcino-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Curcino-C" height="32" width="42"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Curcino-C" height="32" width="42 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Curcino-REACT" height="32" width="42src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   
   ##
   
