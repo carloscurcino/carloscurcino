@@ -6,7 +6,7 @@
  <br />
  
 - 🌱 I’m currently learning Web Development.<br />
-- 👯 I’m looking for full-stack projects.<br />
+- 👯 I’m looking for Full-stack jobs.<br />
 - 💬 Ask me about Movies and Series.<br />
 <br />
 
