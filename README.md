@@ -36,6 +36,6 @@
 
  <br>
  <a href="https://github.com/carloscurcino/">
-    <div align="center"><img width="448" style src="http://github-readme-streak-stats.herokuapp.com?user=carloscurcino&theme=gotham&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="carloscurcino" /></div>
+    <div align="center"><img width="448" style src="http://github-readme-streak-stats.herokuapp.com?user=carloscurcino&theme=dracula&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="carloscurcino" /></div>
 </a>
 </div>
