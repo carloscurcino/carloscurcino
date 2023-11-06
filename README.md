@@ -35,10 +35,6 @@
   <a href="https://www.linkedin.com/in/carlos-daniel-curcino-mendes-7150141b5/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <a href="https://github.com/carloscurcino/">
-    <div align="center"><img width="448" src="https://github-readme-stats.vercel.app/api?username=carloscurcino&show_icons=true&locale=pt-br&theme=gotham&include_all_commits=true&count_private=true" alt="carloscurcino" /></div>
-    <br />
-    <div align="center"><img width="448" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloscurcino&show_icons=true&locale=pt-br&layout=compact&theme=gotham&langs_count=8" alt="carloscurcino" /></div>
-    <br />
     <div align="center"><img width="448" style src="http://github-readme-streak-stats.herokuapp.com?user=carloscurcino&theme=gotham&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="carloscurcino" /></div>
 </a>
 </div>
