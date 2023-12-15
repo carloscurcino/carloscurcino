@@ -1,6 +1,6 @@
 ### Hi there, i'm Carlos Daniel, you're welcome! 👋
 <div align="center">
-<img src="[https://data.whicdn.com/images/271624292/original.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F649010996296190514%2F&psig=AOvVaw1VMam9SBv_xV6KW3RoEUer&ust=1702685894639000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi__rOVkIMDFQAAAAAdAAAAABAD)" width=840 heigth=604 />
+<img src="https://i.pinimg.com/originals/16/c2/41/16c24137ad4ce2e32a3eb1b8c4a659aa.gif" width=840 heigth=604 />
 </div>
  
  <br />
