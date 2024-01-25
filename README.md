@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://i.pinimg.com/originals/16/c2/41/16c24137ad4ce2e32a3eb1b8c4a659aa.gif" width=840 heigth=604 />
 </div>
- 
+ ![ texto]([imagem](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.petz.com.br%2Fblog%2Fcuriosidades%2Fo-que-pato-come%2F&psig=AOvVaw3Kgz4q3rIyQdi0uRJTOcUS&ust=1706231431915000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODjycat94MDFQAAAAAdAAAAABAD)) 
  <br />
  
 - 🌱 I’m currently learning Web Development.<br />
