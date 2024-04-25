@@ -12,6 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/carloscurcino">
+   <div align="center"><img width="448" src="https://github-readme-stats.vercel.app/api?username=carloscurcino&show_icons=true&locale=pt-br&theme=gotham&include_all_commits=true&count_private=true" alt="CarlosCurcino" /></div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloscurcino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscurcino&layout=compact&langs_count=7&theme=dracula"/><a href="https://github.com/carloscurcino/">
     <div align="center"><img width="448" style src="http://github-readme-streak-stats.herokuapp.com?user=carloscurcino&theme=dracula&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="carloscurcino" /></div>
@@ -24,6 +25,7 @@
   <img align="center" alt="Curcino-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Curcino-C" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Curcino-React" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Curcino-Nextjs" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Curcino-Tailwind" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Curcino-Python" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Curcino-Django" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
