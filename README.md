@@ -5,8 +5,8 @@
 
  <br />
  
-- 🌱 I’m currently learning Web Development.<br />
-- 👯 I’m looking for Full-stack jobs.<br />
+- 🌱 I’m currently working with Mobile Development.<br />
+- 👯 I’m learning Web Development.<br />
 - 💬 Ask me about Movies and Series.<br />
 <br />
 
