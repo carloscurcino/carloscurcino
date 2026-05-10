@@ -5,8 +5,8 @@
 
  <br />
  
-- 🌱 I’m currently working with Mobile Development.<br />
-- 👯 I’m always learning more about Development.<br />
+- 🌱 I’m currently working with FullStack Development.<br />
+- 👯 I’m always learning more about cybersecurity.<br />
 - 💬 Ask me about Movies and Series.<br />
 <br />
 
